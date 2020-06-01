@@ -1,0 +1,189 @@
+
+/*html,body{
+	margin: 0 !important;
+	padding: 0 !important;
+}*/
+html,body{
+  margin: 0 0;
+  padding: 0 0;
+
+}
+html{
+	background-color: #DAF7A6;
+}
+
+#header1{
+	text-align: center;
+	
+}
+
+#contact{
+	text-align: right;
+}
+/*#spic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} <h5 id="ii">Contact me at</h5>*/
+#spic {
+	width: 222px;
+	height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+/*.art{
+	width: 20%;
+	float: left;
+    margin:5%;
+}*/
+
+.logo {
+   width: 3%;
+   height: 3%;
+   float: left;
+   margin: 1%;
+}
+.logo:hover {
+	border:  1px solid gray;
+}
+
+#big {
+	width: 3%;
+	height: 3%;
+}
+#oo{
+	padding-left: 100px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 20px;
+	padding-right: 100px;
+}
+
+#big1 {
+	width: 3%;
+	height: 3%; 
+}
+.art {
+	padding-top: 3%;
+	width: 20%;
+	float: left;
+	margin: 2.5%;
+}
+
+#last{
+	padding-bottom: 10%;
+}
+
+li{
+	float: left;
+	padding-right: 30px;
+}
+
+#info1 {
+	margin: 0 ;
+  padding-left: 40%;
+  background-color: #DAF7A6;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+
+}
+
+#info2{
+	margin: 0 ;
+	padding-left: 3%;
+	background-color: #DAF7A6;
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+}
+
+#info3{
+	margin: 0 ;
+	padding-left: 3%;
+	padding-right: 39.9%;
+	background-color: #DAF7A6;
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+}
+
+div:nth-of-type(1) div:nth-of-type(3) p{
+	float: left;
+}
+#ii{
+	padding-right: 125px;
+}
+#i{
+  width: 25px;
+  height:25px;
+  border-radius: 50%;
+  padding-right: 3px;
+  /*padding-right: 50px;*/
+
+}
+#email{
+	padding-right: 80px;
+}
+#iii{
+	padding-right: 150px;
+}
+#iiii{
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#logo4{
+	padding-left: 44%;
+}
+.uu{
+	/*border-bottom: 2px solid gray;*/
+	font-family: 'Crimson Pro', serif;
+	
+} 
+/*#DAF7A6 partI/#E0CCF8 partII/#FFEFD5partIII/#B0E0E6 partIV/#FFFACD partV*/
+
+
+#part1{
+	background-color: #DAF7A6;
+}
+#part2{
+	background-color: #E0CCF8;
+	padding-top: 55px;
+	padding-bottom: 20px;
+	padding-left: 100px;
+	padding-right: 100px
+}
+#part3{
+	background-color: #FFFACD;
+	padding-bottom: 30px;
+}
+#part4{
+	background-color: #FFFACD;
+	padding-left: 30px;
+	width:30px;
+}
+#part5{
+	background-color: #FFFACD;
+}
+#pp{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.style11{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+#name{
+	font-family: 'Philosopher', sans-serif;
+	font-size: 50px;
+}
+.belowname{
+	font-family: 'Crimson Pro', serif;
+	font-size: 20px;
+}
