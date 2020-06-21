@@ -6,17 +6,13 @@
 html,body{
   margin: 0 0;
   padding: 0 0;
-
 }
 html{
 	background-color: #DAF7A6;
 }
-
 #header1{
-	text-align: center;
-	
+	text-align: center;	
 }
-
 #contact{
 	text-align: right;
 }
@@ -27,8 +23,8 @@ html{
   width: 50%;
 } <h5 id="ii">Contact me at</h5>*/
 #spic {
-	width: 222px;
-	height: 300px;
+    width: 222px;
+    height: 300px;
     text-align: center;
     display: block;
     margin: 0 auto;
@@ -51,7 +47,6 @@ html{
 .logo:hover {
 	border:  1px solid gray;
 }
-
 #big {
 	width: 3%;
 	height: 3%;
@@ -63,7 +58,6 @@ html{
 	padding-top: 20px;
 	padding-right: 100px;
 }
-
 #big1 {
 	width: 3%;
 	height: 3%; 
@@ -74,35 +68,27 @@ html{
 	float: left;
 	margin: 2.5%;
 }
-
 #last{
 	padding-bottom: 10%;
 }
-
 li{
 	float: left;
 	padding-right: 30px;
 }
-
 #info1 {
 	margin: 0 ;
   padding-left: 40%;
   background-color: #DAF7A6;
   padding-bottom: 20px;
   padding-top: 20px;
-
-
 }
-
 #info2{
 	margin: 0 ;
 	padding-left: 3%;
 	background-color: #DAF7A6;
 	padding-bottom: 20px;
 	padding-top: 20px;
-
 }
-
 #info3{
 	margin: 0 ;
 	padding-left: 3%;
@@ -110,9 +96,7 @@ li{
 	background-color: #DAF7A6;
 	padding-bottom: 20px;
 	padding-top: 20px;
-
 }
-
 div:nth-of-type(1) div:nth-of-type(3) p{
 	float: left;
 }
@@ -125,7 +109,6 @@ div:nth-of-type(1) div:nth-of-type(3) p{
   border-radius: 50%;
   padding-right: 3px;
   /*padding-right: 50px;*/
-
 }
 #email{
 	padding-right: 80px;
@@ -147,8 +130,6 @@ div:nth-of-type(1) div:nth-of-type(3) p{
 	
 } 
 /*#DAF7A6 partI/#E0CCF8 partII/#FFEFD5partIII/#B0E0E6 partIV/#FFFACD partV*/
-
-
 #part1{
 	background-color: #DAF7A6;
 }
