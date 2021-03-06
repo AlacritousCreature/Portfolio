@@ -1,2 +1,2 @@
-# Portfolio
-my profile website is: https://alacritouscreature.github.io/Portfolio/
+# Profile
+my profile website is: https://alacritouscreature.github.io/Profile/
